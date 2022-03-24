@@ -75,7 +75,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -144,10 +144,11 @@ main {
 }
 */
 
-/*Consolidating */
+/*Consolidating 
 .search-engine-optimization,
 .online-reputation-management,
-.social-media-marketing {
+.social-media-marketing */
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -175,10 +176,11 @@ main {
 }
 */
 
-/*Consolidated Content max-height*/
+/*Consolidated Content max-height
 .search-engine-optimization img,
 .online-reputation-management img,
-.social-media-marketing img {
+.social-media-marketing img*/
+section img {
     max-height: 200px;
 }
 /*
@@ -191,10 +193,11 @@ main {
 }
 */
 
-/*Consolidated Content h2*/
+/*Consolidated Content h2
 .search-engine-optimization h2,
 .online-reputation-management h2, 
-.social-media-marketing h2 {
+.social-media-marketing h2 */
+section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
