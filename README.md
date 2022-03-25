@@ -8,9 +8,9 @@ This homework worked on utilizing semantics to make the CSS more accessible.  It
 
 # Below is the link to my Code_Refractor website:
 
-summary {display:list-item
-[Website](https://canro2b.github.io/Code_Refractor/)
-[Github link](https://canro2b.github.io/Code_Refractor/)
+*[Website](https://canro2b.github.io/Code_Refractor/)
 
-}
+*[Github link](https://canro2b.github.io/Code_Refractor/)
+
+
 
